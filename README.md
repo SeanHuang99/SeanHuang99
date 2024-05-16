@@ -19,5 +19,5 @@ Hello! I'm [Your Name](https://github.com/username), a software developer who lo
 
 ## Languages and Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanHuang99&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-mu-one-96.vercel.app/api/top-langs/?username=SeanHuang99&layout=compact&theme=radical)
 
