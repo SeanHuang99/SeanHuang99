@@ -5,7 +5,7 @@ Hello! I'm [SeanHuang99](https://github.com/username), a software developer who 
 ## About Me
 
 - 🔭 I’m currently working on [Plant](Github: https://github.com/gy02/plant)
-- 🌱 I’m currently learning [technology]
+- 🌱 I’m currently learning [Nodejs]
 - 👯 I’m looking to collaborate on [project type]
 - 📫 How to reach me: [huangshengchuntc6@gmail.com]
 
