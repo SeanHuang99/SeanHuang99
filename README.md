@@ -1,13 +1,13 @@
 # Welcome to my GitHub Profile!
 
-Hello! I'm [Your Name](https://github.com/username), a software developer who loves to code and learn new technologies.
+Hello! I'm [SeanHuang99](https://github.com/username), a software developer who loves to code and learn new technologies.
 
 ## About Me
 
-- 🔭 I’m currently working on [project name](https://github.com/username/project)
+- 🔭 I’m currently working on [Plant](Github: https://github.com/gy02/plant)
 - 🌱 I’m currently learning [technology]
 - 👯 I’m looking to collaborate on [project type]
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [huangshengchuntc6@gmail.com]
 
 ## GitHub Stats
 
