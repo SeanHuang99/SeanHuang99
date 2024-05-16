@@ -11,8 +11,11 @@ Hello! I'm [Your Name](https://github.com/username), a software developer who lo
 
 ## GitHub Stats
 
-![Huang's GitHub stats](https://github-readme-stats-lp7yyvier-seanhuang99s-projects.vercel.app/api?username=
-SeanHuang99&count_private=true)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="SeanHuang99's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SeanHuang99&show_icons=true&hide_border=true" />
+</details>
+
 
 ## Languages and Tools
 
