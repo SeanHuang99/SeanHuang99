@@ -1,17 +1,20 @@
-### Hi there 👋
+# Welcome to my GitHub Profile!
 
-<!--
-**SeanHuang99/SeanHuang99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm [Your Name](https://github.com/username), a software developer who loves to code and learn new technologies.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Plant‘s GitHub stats]https://github-readme-stats-lp7yyvier-seanhuang99s-projects.vercel.app/api?username=
-SeanHuang99&count_private=true&show_icons=true&theme=radical
+- 🔭 I’m currently working on [project name](https://github.com/username/project)
+- 🌱 I’m currently learning [technology]
+- 👯 I’m looking to collaborate on [project type]
+- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+
+## GitHub Stats
+
+![Huang's GitHub stats](https://github-readme-stats-lp7yyvier-seanhuang99s-projects.vercel.app/api?username=
+SeanHuang99&count_private=true)
+
+## Languages and Tools
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanHuang99&layout=compact&theme=radical)
+
